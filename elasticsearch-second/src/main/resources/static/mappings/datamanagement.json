@@ -1,0 +1,55 @@
+{
+    "properties" : {
+      "uid": {
+        "type": "keyword"
+      },
+      "convictingMemberState": {
+        "type": "text"
+      },
+      "convictingMemberStateCentralAuthority": {
+        "type": "text"
+      },
+      "officialUsernames": {
+        "type": "text"
+      },
+      "contactPersonEmail": {
+        "type": "text"
+      },
+      "memberStateReferenceCode": {
+        "type": "text"
+      },
+      "creationDate": {
+        "type": "date"
+      },
+      "modificationDate": {
+        "type": "date"
+      },
+      "contactPersonFirstName": {
+        "type": "text"
+      },
+      "contactPersonFirstSurname": {
+        "type": "text"
+      },
+      "contactPersonSecondSurname": {
+        "type": "text"
+      },
+      "contactPersonPhone": {
+        "type": "text"
+      },
+      "contactPersonFax": {
+        "type": "text"
+      },
+      "motherFirstNames": {
+        "type": "text"
+      },
+      "motherSurnames": {
+        "type": "string"
+      },
+      "fatherFirstnames": {
+        "type": "text"
+      },
+      "fatherSurnames": {
+        "type": "text"
+      }
+    }
+  }
